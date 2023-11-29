@@ -44,6 +44,7 @@ public class Zoo {
                 dora.sayHello();
                 stella.sayHello();
                 kiba.sayHello();
+
             }else if(textpieces.length == 2){
 
                 String name = textpieces[1];
