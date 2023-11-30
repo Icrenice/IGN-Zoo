@@ -14,7 +14,7 @@ public class Pig {
 
     public void sayHello()
     {
-        helloText = "splash";
+        helloText = "Oink";
         System.out.println(helloText);
     }
 
@@ -24,11 +24,6 @@ public class Pig {
         System.out.println(eatText);
     }
 
-    public void eatMeat()
-    {
-        eatText = "nomnomnom oink thx";
-        System.out.println(eatText);
-    }
 
     public void performTrick()
     {

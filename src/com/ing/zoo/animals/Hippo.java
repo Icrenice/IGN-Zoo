@@ -17,7 +17,7 @@ public class Hippo {
 
     public void eatLeaves()
     {
-        eatText = "munch munch lovely";
+          eatText = "munch munch lovely";
         System.out.println(eatText);
     }
 }
